@@ -1,4 +1,6 @@
-# symos_gfortran
+# CMOP gfortran
+
+Coupled Model for Oil spill Prediction
 
 This model was employed in the Brazil Oil Spill in 2019.
 
