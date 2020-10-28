@@ -8,6 +8,22 @@ https://www1.folha.uol.com.br/ambiente/2019/10/simulacoes-apontam-que-petroleo-v
 
 https://g1.globo.com/fantastico/noticia/2019/10/13/navio-fantasma-pode-ter-causado-manchas-de-oleo-que-contaminaram-praias-do-nordeste.ghtml
 
+Following some results generated with CMOP Oil Spill module:
+
+Back in time result for Brazil's Northeast Oil  spill 2019
+<br />
+
+<p align="center">
+  <img src="https://github.com/fernandotcbarreto/stuff/blob/main/nordeste_back.png">
+</p>
+
+Probabilistic result for Brazil's Northeast Oil  spill 2019
+<br />
+
+<p align="center">
+  <img src="https://github.com/fernandotcbarreto/stuff/blob/main/nordeste_probabilistic.jpg">
+</p>
+
 <p align="center">
   <img src="https://github.com/fernandotcbarreto/stuff/blob/main/gulf_mexico.gif">
 </p>
