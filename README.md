@@ -9,6 +9,9 @@ https://www1.folha.uol.com.br/ambiente/2019/10/simulacoes-apontam-que-petroleo-v
 https://g1.globo.com/fantastico/noticia/2019/10/13/navio-fantasma-pode-ter-causado-manchas-de-oleo-que-contaminaram-praias-do-nordeste.ghtml
 
 Following some results generated with CMOP Oil Spill module:
+<br />
+
+<br />
 
 Back in time result for Brazil's Northeast Oil  spill 2019
 <br />
@@ -23,6 +26,10 @@ Probabilistic result for Brazil's Northeast Oil  spill 2019
 <p align="center">
   <img src="https://github.com/fernandotcbarreto/stuff/blob/main/nordeste_probabilistic.jpg">
 </p>
+<br />
+<br />
+
+Oil transport simulation for a blowout testcase in Gulf of Mexico
 
 <p align="center">
   <img src="https://github.com/fernandotcbarreto/stuff/blob/main/gulf_mexico.gif">
