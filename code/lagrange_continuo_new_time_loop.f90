@@ -2556,6 +2556,7 @@ aux=0
        do comps=1, NCOMP_OIL
 
            if (masscomp(j,i-1, comps).eq.0) then
+		     masscomp(j,i, comps)=0		   
               cycle
            endif
 
